@@ -1,0 +1,14 @@
+[cursor.style]
+blinking = "Always"
+shape = "Beam"
+
+[font.normal]
+family = "CaskaydiaCove Nerd Font"
+style = "Regular"
+
+[window]
+opacity = 0.8
+
+[window.padding]
+x = 8
+y = 8
